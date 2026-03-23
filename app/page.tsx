@@ -14,7 +14,7 @@ export default function Home() {
 
       <main className="max-w-2xl mx-auto px-6 py-16">
         <h1 className="text-4xl font-bold text-zinc-900 leading-tight">
-          Welcome to my blog.
+          Welcome to Sascha's blog.
         </h1>
         <p className="mt-4 text-lg text-zinc-500 leading-relaxed">
           I write about web development, design, and building things on the internet.
